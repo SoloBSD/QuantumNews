@@ -1,0 +1,4 @@
+#!/bin/sh
+
+export DEV="${DEV:-1}"
+exec racket -t as.scm "$@"

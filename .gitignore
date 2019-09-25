@@ -1,0 +1,8 @@
+arc/
+/src/bcrypt/build
+/src/bcrypt/cmake-build-debug
+/src/bcrypt/.idea
+*.csv
+*.png
+static/place.txt
+static/traffic*

@@ -1,0 +1,11 @@
+(map load '("glob.arc"
+            "strings.arc"
+            "colors.arc"
+            "dbg.arc"
+            "pprint.arc"
+            "code.arc"
+            "html.arc"
+            "git.arc"
+            "srv.arc"
+            "app.arc"
+            "prompt.arc"))
